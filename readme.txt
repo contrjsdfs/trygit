@@ -8,5 +8,5 @@ ssh-keygen -t rsa -C "2087219232@example.com"
 sxdg
 
 Creating a new branch is quick.123
-
 Creating a new branch is quick & simple.
+
